@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm Mikel
 
-I'm just starting out in the world of development and programming.  
-Always learning, always building 🚀
+Always learning 🚀
 
 ### 💻 Languages I know:
 <img src="assets/icons/html5.png" alt="HTML5" width="40" height="40"/>
