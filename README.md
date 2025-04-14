@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Mikel
 
-Always learning 🚀
+🌱 Learning one step at a time, growing all the way
 
 ### 💻 Languages I know:
 <img src="assets/icons/html5.png" alt="HTML5" width="50" height="50"/>
