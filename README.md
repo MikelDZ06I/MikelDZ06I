@@ -6,7 +6,7 @@
 
 ### 📚 Currently learning:
 <img src="assets/icons/java.png" alt="Java" width="50" height="50"/>
-<img src="assets/icons/postgresql.png" alt="SQL" width="60" height="50"/>
+<img src="assets/icons/postgresql.png" alt="SQL" width="70" height="50"/>
 <img src="assets/icons/python.png" alt="Python" width="50" height="50"/>
 
 
