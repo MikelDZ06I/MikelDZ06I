@@ -1,8 +1,6 @@
 # 👋 Hi there! I'm Mikel
 
-I'm just starting out in the world of development and programming.
-
-Always learning, always building 🚀
+Always learning 🚀
 
 ### 💻 Languages I know:
 | HTML5 | CSS3 |
