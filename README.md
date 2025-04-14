@@ -1,7 +1,5 @@
 # 👋 Hi there! I'm Mikel
 
-🌱 Learning one step at a time, growing all the way
-
 ### 💻 Languages I know:
 <img src="assets/icons/html5.png" alt="HTML5" width="50" height="50"/>
 <img src="assets/icons/css3.png" alt="CSS3" width="50" height="50"/>
