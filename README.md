@@ -3,13 +3,13 @@
 Always learning 🚀
 
 ### 💻 Languages I know:
-<img src="assets/icons/html5.png" alt="HTML5" width="40" height="40"/>
-<img src="assets/icons/css3.png" alt="CSS3" width="40" height="40"/>
+<img src="assets/icons/html5.png" alt="HTML5" width="50" height="50"/>
+<img src="assets/icons/css3.png" alt="CSS3" width="50" height="50"/>
 
 ### 📚 Currently learning:
-<img src="assets/icons/java.png" alt="Java" width="40" height="40"/>
-<img src="assets/icons/postgresql.png" alt="SQL" width="40" height="40"/>
-<img src="assets/icons/python.png" alt="Python" width="40" height="40"/>
+<img src="assets/icons/java.png" alt="Java" width="50" height="50"/>
+<img src="assets/icons/postgresql.png" alt="SQL" width="50" height="50"/>
+<img src="assets/icons/python.png" alt="Python" width="50" height="50"/>
 
 
 
