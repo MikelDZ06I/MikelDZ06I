@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [YourName]
+# 👋 Hi there! I'm Mikel
 
 I'm just starting out in the world of development and programming.  
 Always learning, always building 🚀
