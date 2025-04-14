@@ -1,14 +1,18 @@
 # 👋 Hi there! I'm Mikel
 
+I'm just starting out in the world of development and programming.
+
+Always learning, always building 🚀
+
 ### 💻 Languages I know:
-<img src="assets/icons/html5.png" alt="HTML5" width="50" height="50"/>
-<img src="assets/icons/css3.png" alt="CSS3" width="50" height="50"/>
+| HTML5 | CSS3 |
+|-------|------|
+| <img src="assets/icons/html5.png" alt="HTML5" width="50" height="50"/> | <img src="assets/icons/css3.png" alt="CSS3" width="50" height="50"/> |
 
 ### 📚 Currently learning:
-<img src="assets/icons/java.png" alt="Java" width="50" height="50"/>
-<img src="assets/icons/postgresql.png" alt="SQL" width="70" height="50"/>
-<img src="assets/icons/python.png" alt="Python" width="50" height="50"/>
-
+| Java | PostgreSQL | Python |
+|------|------------|--------|
+| <img src="assets/icons/java.png" alt="Java" width="50" height="50"/> | <img src="assets/icons/postgresql.png" alt="SQL" width="70" height="50"/> | <img src="assets/icons/python.png" alt="Python" width="50" height="50"/> |
 
 
 <!--
