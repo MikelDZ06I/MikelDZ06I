@@ -8,7 +8,7 @@ Always learning 🚀
 | <img src="assets/icons/html5.png" alt="HTML5" width="50" height="50"/> | <img src="assets/icons/css3.png" alt="CSS3" width="50" height="50"/> |
 
 ### 📚 Currently learning:
-| Java | PostgreSQL | Python |
+| Java | SQL | Python |
 |------|------------|--------|
 | <img src="assets/icons/java.png" alt="Java" width="50" height="50"/> | <img src="assets/icons/postgresql.png" alt="SQL" width="70" height="50"/> | <img src="assets/icons/python.png" alt="Python" width="50" height="50"/> |
 
